@@ -2,7 +2,7 @@
   "articles": [
     {
       "id": 1,
-      "title": "Example Article",
+      "title": "The first article dawg, made through a patch",
       "content": "This is an example."
     },
     {
@@ -14,6 +14,12 @@
       "title": "Third Article",
       "content": "Another example!",
       "id": 3
+    },
+    {
+      "title": "Fourth Article",
+      "content": "Another another example!",
+      "final": true,
+      "id": 4
     }
   ]
 }
