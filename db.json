@@ -16,10 +16,31 @@
       "id": 3
     },
     {
-      "title": "Fourth Article",
-      "content": "Another another example!",
-      "final": true,
+      "title": "This piece made by a POST verb",
+      "content": "Yo",
       "id": 4
+    },
+    {
+      "title": "This piece made by a POST verb",
+      "content": "Yo2",
+      "id": 5
+    },
+    {
+      "title": "This piece made by a POST verb",
+      "content": "Yo2",
+      "id": 6
+    },
+    {
+      "title": "This piece made by a POST verb",
+      "content": "Those last 2 were just to see if it would POST the same content twice",
+      "id": 7
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J.K. Rowling"
     }
   ]
 }
